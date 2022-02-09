@@ -74,6 +74,7 @@ header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 0.875em;
+	text-align: center;
 	padding: 0 10px;
 	display: inline;
 }
@@ -172,7 +173,7 @@ footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
 	color: #77a466;
-	font-size: 0.875em;
+	font-size: 1em;
 }
 
 
